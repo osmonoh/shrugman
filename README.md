@@ -1,3 +1,15 @@
+When the user wins a round:
+
+![example win](./example-gifs/shrug-win.gif)
+
+When the user loses a round:
+
+![example loss](./example-gifs/shrug-loss.gif)
+
+When the user does not continue:
+
+![example no](./example-gifs/shrug-no.gif)
+
 # Shrugman
 
 Let's build another guessing game.
@@ -14,7 +26,7 @@ If the user has already guessed this letter once, ask them for another letter, i
 
 The secret movie title is displayed masked - every character except spaces is represented by an underscore `_`. With every correct guess, all ocurrences of the letter are revealed.
 
-Once the game is over, print a list of all games played, and whether they were a win or a loss: 
+Once the game is over, print a list of all games played, and whether they were a win or a loss:
 
 1. Braveheart - win
 2. The Godfather - loss
@@ -41,10 +53,10 @@ Without adding the extra feature for asking for another round, this list will al
 
 Take a look at the examples:
 
-When the user wins a round: 
+When the user wins a round:
 
-![example win](example.gif)
+![example win](./example-gifs/example.gif)
 
-When the user loses a round: 
+When the user loses a round:
 
-![example loss](example-loss.gif)
+![example loss](./example-gifs/example-loss.gif)
